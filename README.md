@@ -3,14 +3,12 @@ A fun game for kids to play by rolling dice!
 
 How to play:
 
-1.Enter names of player 1 and player 2 when you load page for the first time.
+1.Use "ROLL DICE" button to roll the dice and scores are accumilated untill you Roll a 1 OR by clciking "HOLD".
 
-2.Use "ROLL DICE" button to roll the dice and scores are accumilated untill you Roll a 1 OR by clciking "HOLD".
+2.Once you roll a 1, your score becomes zero! and its other players turn now.
 
-3.Once you roll a 1, your score becomes zero! and other player becomes active and he should roll the dice.
+3.Use "HOLD" to keep the scores.
 
-4.Use "HOLD" to keep the scores.
-
-5.Who ever scores 100 first is the winner!
+4.Who ever scores 100 first is the winner!
 
 Have Fun... Thanks!
